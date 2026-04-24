@@ -2,3 +2,4 @@ aiogram
 groq
 requests
 python-dotenv
+pypdf
