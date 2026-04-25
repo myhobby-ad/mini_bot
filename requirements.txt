@@ -3,3 +3,4 @@ groq
 requests
 python-dotenv
 pypdf
+psycops2-binary
